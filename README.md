@@ -1,18 +1,10 @@
 <div align="center">
-  
-# 👋 Hello, I'm Vandita!
 
-### 🚀 Full Stack Developer | 💡 Problem Solver | 🌟 Open Source Enthusiast
+### 🚀 Full Stack Developer | 💡 Problem Solver | 🌟 AI/ML Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
 
 </div>
-
-<div align="center">
-
-# Hi there! 👋 I'm Vandita Gupta
-
-### 🚀 AI/ML Engineer & Technical Writer
 
 <img src="https://github.com/vanditagupta/vanditagupta/blob/main/assets/profile-pic.png" alt="Vandita Gupta" width="150" height="150" style="border-radius: 50%; border: 3px solid #00d2ff;">
 
@@ -64,72 +56,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎨 [StyleSpark](https://github.com/vanditagupta/stylespark) ✨
-> **AI-powered fashion recommendation platform using CLIP/BLIP models**
-- 🔧 **Tech Stack:** Python, CLIP, BLIP, React, Flask
-- 🎯 **Features:** Personalized style suggestions, Visual similarity search
-- 🌟 **Impact:** Revolutionizing fashion discovery through AI
-
-### 💰 [SmartMoney](https://github.com/vanditagupta/smartmoney) 
-> **Intelligent fintech application for personal finance management**
-- 🔧 **Tech Stack:** React, Python, ML, Finance APIs
-- 🎯 **Features:** ML-driven insights, Budget optimization, Investment advice
-- 🌟 **Impact:** Helping users make smarter financial decisions
-
-### 🌙 [Lunar Elemental Mapping](https://github.com/vanditagupta/lunar-mapping)
-> **ISRO collaboration project for lunar surface analysis**
-- 🔧 **Tech Stack:** Python, Satellite Data, ML, GIS
-- 🎯 **Features:** Elemental composition analysis, 3D mapping visualization
-- 🌟 **Impact:** Contributing to India's space exploration missions
-
-### 📚 [AI Research Paper Evaluator](https://github.com/vanditagupta/paper-evaluator)
-> **Automated system for evaluating AI research papers**
-- 🔧 **Tech Stack:** NLP, Python, Transformers, Research Metrics
-- 🎯 **Features:** Quality assessment, Citation prediction, Topic classification
-- 🌟 **Impact:** Streamlining academic research processes
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vanditagupta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff" alt="GitHub Stats" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanditagupta&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d2ff&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff" alt="GitHub Streak" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanditagupta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d2ff&text_color=ffffff" alt="Top Languages" width="48%">
-
-</div>
-
----
-
-## 🏆 Experience & Achievements
-
-### 💼 Current Role
-**AI/ML Intern** @ **GeeksforGeeks** *(2024 - Present)*
-- 📝 Published 100+ technical articles on AI/ML topics
-- 🎯 Reached 500K+ readers with high-quality content
-- 🚀 Contributed to AI/ML educational resources
-
-### 🎓 Education
-**B.Tech in AI & Data Science** @ **IIT Jodhpur** *(2023 - 2027)*
-- 🏅 Specialization in Artificial Intelligence and Data Science
-- 📚 Relevant Coursework: Machine Learning, Deep Learning, Computer Vision
-
----
-
-## 🎨 Fun Facts
-
-- 🏸 **Badminton Enthusiast** - Love playing and watching matches
-- 📝 **Technical Writer** - Passionate about making complex AI concepts accessible
-- 🚀 **Entrepreneurship** - Always exploring innovative business ideas
-- 🌟 **Open Source** - Believe in the power of collaborative development
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -153,15 +79,3 @@
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vanditagupta&color=brightgreen)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-$(date+'%Y%20%m%20%d')-blue)](https://github.com/vanditagupta)
-
-**Check out my projects below 👇**
-
-</div>
