@@ -4,21 +4,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
 
-</div>
-
-<img src="https://github.com/vanditagupta/vanditagupta/blob/main/assets/profile-pic.png" alt="Vandita Gupta" width="150" height="150" style="border-radius: 50%; border: 3px solid #00d2ff;">
-
 [![IIT Jodhpur](https://img.shields.io/badge/🎓_IIT_Jodhpur-2023--2027-blue?style=for-the-badge)](https://iitj.ac.in)
 [![AI & Data Science](https://img.shields.io/badge/💻_AI_&_Data_Science-Specialist-green?style=for-the-badge)](#)
 [![GeeksforGeeks](https://img.shields.io/badge/📝_GeeksforGeeks-AI/ML_Intern-orange?style=for-the-badge)](https://geeksforgeeks.org)
 
----
+</div>
 
 ## 🎯 Quick Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vanditagupta&color=brightgreen&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/vanditagupta?style=for-the-badge&color=blue)](https://github.com/vanditagupta)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problems_Solved-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/vanditagupta)
+[![GitHub Followers](https://img.shields.io/github/followers/vanditagupta?style=for-the-badge&color=blue)](https://github.com/Vandita1022)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problems_Solved-orange?style=for-the-badge&logo=leetcode)]([https://leetcode.com/vanditagupta](https://leetcode.com/u/cBbtEEJz49/))
 
 </div>
 
@@ -60,20 +56,15 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanditagupta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanditagupta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandita.gupta@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vanditagupta.dev)
-
-**📧 Email:** vandita.gupta@example.com
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vandita1022)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandita-gupta-0b075828a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandita.gupta2609@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 🌟 "Code with curiosity, build with purpose" 🌟
 
 **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
