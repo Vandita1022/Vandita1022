@@ -1,5 +1,7 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?text=Hii%20Vandita%20here!%20🚀&animation=fadeIn&type=waving&color=gradient&height=160&fontColor=ffffff&fontSize=40)
+
 ### 🚀 Full Stack Developer | 💡 Problem Solver | 🌟 AI/ML Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
