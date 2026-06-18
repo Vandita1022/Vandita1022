@@ -70,5 +70,4 @@
 
 **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:654EA3,100:3B82F6&height=120&section=footer)
